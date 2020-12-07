@@ -1,55 +1,41 @@
-72
 Zhao F, Liu H, Zhang Y, et al. A discrete water wave optimization algorithm for no-wait flow shop scheduling problem[J]. Expert Systems with Applications, 2018, 91: 347-363.
 Link:https://www.sciencedirect.com/science/article/pii/S0957417417306310
 
-73
 Zhao F, Qin S, Zhang Y, et al. A hybrid biogeography-based optimization with variable neighborhood search mechanism for no-wait flow shop scheduling problem[J]. Expert Systems with Applications, 2019, 126: 321-339.
 Link:https://www.sciencedirect.com/science/article/pii/S0957417419301289
 
-74
 Pan Q K, Wang L, Zhao B H. An improved iterated greedy algorithm for the no-wait flow shop scheduling problem with makespan criterion[J]. The International Journal of Advanced Manufacturing Technology, 2008, 38(7-8): 778-786.
 Link:https://link.springer.com/article/10.1007/s00170-007-1120-y
 
-76
 Zhuang W J, Xu T, Sun M Y. A hybrid iterated greedy algorithm for no-wait flowshop with sequence dependent setup times to minimize makespan[C]//Advanced Materials Research. Trans Tech Publications Ltd, 2014, 933: 459-466.
 Link:https://www.scientific.net/AMR.933.459
 
-77
 Ding J Y, Song S, Gupta J N D, et al. An improved iterated greedy algorithm with a Tabu-based reconstruction strategy for the no-wait flowshop scheduling problem[J]. Applied Soft Computing, 2015, 30: 604-613.
 Link:https://www.sciencedirect.com/science/article/pii/S1568494615000964
 
-78
 Ruiz R, Allahverdi A. New heuristics for no-wait flow shops with a linear combination of makespan and maximum lateness[J]. International Journal of Production Research, 2009, 47(20): 5717-5738.
 Link:https://www.tandfonline.com/doi/full/10.1080/00207540802070942
 
-79
 Naderi B, Aminnayeri M, Piri M, et al. Multi-objective no-wait flowshop scheduling problems: models and algorithms[J]. International Journal of Production Research, 2012, 50(10): 2592-2608.
 Link:https://www.tandfonline.com/doi/full/10.1080/00207543.2010.543937
 
-80
 Lin S W, Lu C C, Ying K C. Minimizing the sum of makespan and total weighted tardiness in a no-wait flowshop[J]. IEEE Access, 2018, 6: 78666-78677.
 Link:https://ieeexplore.ieee.org/abstract/document/8561288
 
-81
 Li X, Yang Z, Ruiz R, et al. An iterated greedy heuristic for no-wait flow shops with sequence dependent setup times, learning and forgetting effects[J]. Information Sciences, 2018, 453: 408-425.
 Link:https://www.sciencedirect.com/science/article/pii/S0020025518302937
 
-85
 Ding J, Song S, Zhang R, et al. Accelerated methods for total tardiness minimisation in no-wait flowshops[J]. International Journal of Production Research, 2015, 53(4): 1002-1018.
 Link:https://www.tandfonline.com/doi/full/10.1080/00207543.2014.932935
 
-149
 Xu T, Zhu X, Li X. Efficient iterated greedy algorithm to minimize makespan for the no-wait flowshop with sequence dependent setup times[C]//Proceedings of the 2012 IEEE 16th International Conference on Computer Supported Cooperative Work in Design (CSCWD). IEEE, 2012: 780-785.
 Link:https://ieeexplore.ieee.org/abstract/document/6221909
 
-150
 Ding J, Song S, Zhang R, et al. Minimizing makespan for a no-wait flowshop using tabu mechanism improved iterated greedy algorithm[C]//2014 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2014: 1906-1911.
 Link:https://ieeexplore.ieee.org/abstract/document/6900460
 
-151
 Zheng J. A hybrid iterated greedy algorithm for the no-wait PFSP[C]//2017 29th Chinese Control And Decision Conference (CCDC). IEEE, 2017: 1156-1161.
 Link:https://ieeexplore.ieee.org/abstract/document/7978693
 
-170
 Nagano M S, de Almeida F S, Miyata H H. An iterated greedy algorithm for the no-wait flowshop scheduling problem to minimize makespan subject to total completion time[J]. Engineering Optimization, 2020: 1-19.
 Link:https://www.tandfonline.com/doi/full/10.1080/0305215X.2020.1797000
