@@ -1,0 +1,52 @@
+A. Available benchmark instances:
+
+1. Various benchmarks about flowshop scheduling problems (FSPs) can be downloaded from http://soa.iti.es/problem-instances, including the ones of permutation FSPs, no-wait FSPs, no-idle FSPs, mixed no-idle FSPs, hybrid FSPs, assembly FSPs, distributed permutation FSPs, and distributed assembly FSPs.
+The instance are used in the following papers:
+(1) Vallada, Eva, Ruiz, Rubén & Framinan, Jose M. (2017). New hard benchmark for flowshop scheduling problems minimising makespan. European Journal of Operational Research, 240, 666-677.
+(2) Quan-Ke, Pan, Ruiz, Rubén & Alfaro-Fernández, Pedro. (2017). Iterated search methods for earliness and tardiness minimization in hybrid flowshops with due windows. Computers & Operations Research, 80, 50-60.M. Ciavotta, G. Minella and R. Ruiz, (2013). 
+(3) Multi-objective sequence dependent setup times flowshop scheduling: a new algorithm and a comprehensive study. European Journal of Operational Research, 227(2), 301-313
+(4) Naderi, B. & Ruiz, Rubén, (2010). The distributed permutation flowshop scheduling problem. Computers & Operations Research, 37(4), 754-768.
+(5) Naderi, B. & Ruiz, Rubén, (2014). A scatter search algorithm for the distributed permutation flowshop scheduling problem. European Journal of Operational Research, 239(2), 323-334.
+(6) Ruiz, Rubén, Pan, Q.-K. & Naderi, B. (2018). Iterated Greedy methods for the distributed permutation flowshop scheduling problem. OMEGA, The International Journal of Management Science. In press.
+(7) B. Naderi, R. Ruiz and M. Zandieh. (2008), Algorithms for a realistic variant of flowshop scheduling,  Computers & Operations Research, 37(2), 236-246.
+(8) R. Ruiz, E. Vallada and Fernández-Martínez, C. (2009). Scheduling in flowshops with no-idle machines. Scheduling in flowshops with no-idle machines, chapter 2, pages 21-52 of the book "Computational Intelligence in Flow Shop and Job Shop Scheduling" edited by Uday K. Chakraborty. New York : Springer.
+(9) R. Ruiz and A. Allahverdi, (2009). New heuristics for no-wait flowshops with bicriteria of makespan and maximum lateness. International Journal of Production Research, 47(20), 5717-5738.
+(10) R. Ruiz, F. Sivrikaya Şerifoğlu and T. Urlings, (2008). Modeling realistic hybrid flexible flowshop scheduling problems. Computers & Operations Research 35, 1151-1175.
+(11) T. Urlings, R. Ruiz and T. Stützle, (2010), Shifting representation search for hybrid flexible flowline problems, European Journal of Operational Research 207, 1086-1095.
+(12) T. Urlings, R. Ruiz and F. Sivrikaya Şerifoğlu, (2010), Genetic algorithms with different representation schemes for complex hybrid flexible flow line problems, International Journal of Metaheuristics 1, 30-54.
+(13) G. Minella, R. Ruiz and M. Ciavotta (2008). A Review and Evaluation of Multi-Objective Algorithms for the Flowshop Scheduling Problem. INFORMS Journal on Computing, 20(3): 451-471.
+(14) G. Minella, R. Ruiz and M. Ciavotta (2011). Restarted Iterated Pareto Greedy algorithm for Multi-Objective Flowshop Scheduling problems.Computers & Operations Research, 38(11), 1521-1533.
+(15) R. Ruiz and T. Stützle, (2008) An Iterated Greedy heuristic for the sequence dependent setup times flowshop with makespan and weighted tardiness objectives. European Journal of Operational Research 187, 1143-1159.
+(16) E. Vallada, R. Ruiz and G. Minella, (2008). Minimizing total tardiness in the m-machine flowshop problem: a review and evaluation of heuristics and metaheuristics. Computers & Operations Research 35, 1350-1373.
+(17) E. Vallada and R. Ruiz, (2009). Cooperative Metaheuristics for the Permutation Flowshop Scheduling Problem.  European Journal of Operational Research, 193(2): 365-376.
+(18) E. Vallada and R. Ruiz, (2010).Genetic algorithms with path relinking for the minimum tardiness permutation flowshop problem. OMEGA, The International Journal of Management Science, 38(1-2), 57-67.
+(19) R. Ruiz and A. Allahverdi, (2007). No-Wait Flowshop with Separate Setup Times to Minimize Maximum Lateness. International Journal of Advanced Manufacturing Technology 35, 551-565.
+(20) R. Ruiz and A. Allahverdi, (2007). Some Effective Heuristics for No-Wait Flowshops with Setup Times to Minimize Total Completion Time. Annals of Operations Research 156, 143-171.
+(21) R. Ruiz, J. Carlos García-Díaz and C. Maroto, (2007). Considering scheduling and preventive maintenance in the flowshop sequencing problem. Computers & Operations Research 34, 3314-3330.
+(22) R. Ruiz, C. Maroto and J. Alcaraz (2005). Solving the flowshop scheduling problem with sequence dependent setup times using advanced metaheuristics. European Journal of Operational Research 165, 34-54.
+(23) R. Ruiz and T. Stützle, (2008) An Iterated Greedy heuristic for the sequence dependent setup times flowshop with makespan and weighted tardiness objectives. European Journal of Operational Research 187, 1143-1159.
+
+2. A well-known Taillard’s benchmark of FSPs introduced in (1) is available at http://mistic.heig-vd.ch/taillard/problemes.dir/ordonnancement.dir/ordonnancement.html and used in the following papers.
+(1) Taillard, Eric. "Benchmarks for basic scheduling problems." european journal of operational research 64.2 (1993): 278-285.
+(2) Ding, Jian-Ya, et al. "New block properties for flowshop scheduling with blocking and their application in an iterated greedy algorithm." International Journal of Production Research 54.16 (2016): 4759-4772.
+(3) Pan, Quan-Ke, Mehmet Fatih Tasgetiren, and Yun-Chia Liang. "A discrete differential evolution algorithm for the permutation flowshop scheduling problem." Computers & Industrial Engineering 55.4 (2008): 795-816.
+(4) Zhuang, Wei Jin, Tao Xu, and Ming Yang Sun. "A hybrid iterated greedy algorithm for no-wait flowshop with sequence dependent setup times to minimize makespan." Advanced Materials Research. Vol. 933. Trans Tech Publications Ltd, 2014.
+(5) Zhang, Chaoyong, et al. "An effective VNSSA algorithm for the blocking flowshop scheduling problem with makespan minimization." 2015 International Conference on Advanced Mechatronic Systems (ICAMechS). IEEE, 2015.
+(6) Ravetti, Martín Gómez, et al. "Parallel hybrid heuristics for the permutation flow shop problem." Annals of Operations Research 199.1 (2012): 269-284.
+(7) Balázs, Krisztián, Zoltán Horváth, and László T. Kóczy. "Multi-threaded bacterial Iterated Greedy heuristics for the Permutation Flow Shop Problem." 2012 IEEE 13th International Symposium on Computational Intelligence and Informatics (CINTI). IEEE, 2012.
+
+3. Two datasets of FSPs are available at OR-library http://people.brunel.ac.uk/~mastjjb/jeb/orlib/flowshopinfo.html. 
+ 
+4. A benchmark dataset of hybrid FSPs is available at www.benchmark.ibu.edu.tr/mpt-hfsp.
+Şerifoğlu, F. Sivrikaya, and Gündüz Ulusoy. "Multiprocessor task scheduling in multistage hybrid flow-shops: a genetic algorithm approach." Journal of the Operational Research Society 55.5 (2004): 504-512.
+
+B. Instance generation method:
+
+1. Hybid FSPs:
+Oğuz, Ceyda, et al. "Hybrid flow-shop scheduling problems with multiprocessor task systems." European Journal of Operational Research 152.1 (2004): 115-131.
+
+2. Flexible FSPs:
+Naderi, Bahman, Mostafa Zandieh, and GHOMI SEYED MOHAMMAD TAGHI FATEMI. "An Iterated Greedy Algorithm for Flexible Flow Lines with Sequence Dependent Setup Times to Minimize Total Weighted Completion Time." (2009): 33-37.
+
+3. No-wait FSPs:
+Ruiz, Ruben, and Ali Allahverdi. "New heuristics for no-wait flow shops with a linear combination of makespan and maximum lateness." International Journal of Production Research 47.20 (2009): 5717-5738.
