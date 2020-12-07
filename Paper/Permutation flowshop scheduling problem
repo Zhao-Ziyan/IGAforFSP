@@ -1,188 +1,147 @@
-87
 Zhang S, Gu X. An effective discrete artificial bee colony algorithm for flow shop scheduling problem with intermediate buffers[J]. Journal of Central South University, 2015, 22(9): 3471-3484.
 Link:https://link.springer.com/article/10.1007/s11771-015-2887-x
 
-88
 Lin J. A hybrid discrete biogeography-based optimization for the permutation flow shop scheduling problem[J]. International Journal of Production Research, 2016, 54(16): 4805-4814.
 Link:https://www.tandfonline.com/doi/full/10.1080/00207543.2015.1094584
 
-89
 Chen R C, Chen J, Chen T S, et al. Synergy of genetic algorithm with extensive neighborhood search for the permutation flowshop scheduling problem[J]. Mathematical Problems in Engineering, 2017, 2017.
 Link:https://www.hindawi.com/journals/mpe/2017/3630869/
 
-91
 Ruiz R, Stützle T. A simple and effective iterated greedy algorithm for the permutation flowshop scheduling problem[J]. European Journal of Operational Research, 2007, 177(3): 2033-2049.
 Link:https://www.sciencedirect.com/science/article/pii/S0377221705008507
 
-92
 Cheng H M, Ying K C. Minimizing makespan in a flow-line manufacturing cell with sequence dependent family setup times[J]. Expert Systems with Applications, 2011, 38(12): 15517-15522.
 Link:https://www.sciencedirect.com/science/article/pii/S0957417411009031
-93
+
 Ravetti M G, Riveros C, Mendes A, et al. Parallel hybrid heuristics for the permutation flow shop problem[J]. Annals of Operations Research, 2012, 199(1): 269-284.
 Link:https://link.springer.com/article/10.1007/s10479-011-1056-3
 
-94
 Ying K C. Scheduling the two-machine flowshop to hedge against processing time uncertainty[J]. Journal of the Operational Research Society, 2015, 66(9): 1413-1425.
 Link:https://link.springer.com/article/10.1057/jors.2014.100
 
-95
 Dubois-Lacoste J, Pagnozzi F, Stützle T. An iterated greedy algorithm with optimization of partial solutions for the makespan permutation flowshop problem[J]. Computers & Operations Research, 2017, 81: 160-166.
 Link:https://www.sciencedirect.com/science/article/pii/S030505481630329X
 
-96
 Ning Z, Song Y E, Kaidian L I, et al. Effective iterated greedy algorithm for flow-shop scheduling problems with time lags[J]. Chinese Journal of Mechanical Engineering, 2017, 30(3): 652-662.
 Link:https://link.springer.com/article/10.1007/s10033-017-0108-2
 
-97
 Liu W, Jin Y, Price M. New meta-heuristic for dynamic scheduling in permutation flowshop with new order arrival[J]. The International Journal of Advanced Manufacturing Technology, 2018, 98(5-8): 1817-1830.
 Link:https://link.springer.com/article/10.1007/s00170-018-2171-y
 
-98
 Fernandez-Viagas V, Framinan J M. A best-of-breed iterated greedy for the permutation flowshop scheduling problem with makespan objective[J]. Computers & Operations Research, 2019, 112: 104767.
 Link:https://www.sciencedirect.com/science/article/pii/S0305054819302096
 
-99
 Belabid J, Aqil S, Allali K. Solving Permutation Flow Shop Scheduling Problem with Sequence-Independent Setup Time[J]. Journal of Applied Mathematics, 2020, 2020.
 Link:https://www.hindawi.com/journals/jam/2020/7132469/
 
-100
 Abdollahpour S, Rezaeian J. Minimizing makespan for flow shop scheduling problem with intermediate buffers by using hybrid approach of artificial immune system[J]. Applied Soft Computing, 2015, 28: 44-56.
 Link:https://www.sciencedirect.com/science/article/pii/S1568494614005845
 
-101
 Pagnozzi F, Stützle T. Automatic design of hybrid stochastic local search algorithms for permutation flowshop problems[J]. European Journal of Operational Research, 2019, 276(2): 409-421.
 Link:https://www.sciencedirect.com/science/article/pii/S0377221719300207
-102
+
 Framinan J M, Leisten R. A multi-objective iterated greedy search for flowshop scheduling with makespan and flowtime criteria[J]. OR Spectrum, 2008, 30(4): 787-804.
 Link:https://link.springer.com/article/10.1007/s00291-007-0098-z
 
-103
 Minella G, Ruiz R, Ciavotta M. Restarted Iterated Pareto Greedy algorithm for multi-objective flowshop scheduling problems[J]. Computers & Operations Research, 2011, 38(11): 1521-1533.
 Link:https://www.sciencedirect.com/science/article/pii/S0305054811000220
 
-104
 Ciavotta M, Minella G, Ruiz R. Multi-objective sequence dependent setup times permutation flowshop: A new algorithm and a comprehensive study[J]. European Journal of Operational Research, 2013, 227(2): 301-313.
 Link:https://www.sciencedirect.com/science/article/pii/S0377221713000052
 
-105
 Ruiz R, Stützle T. An iterated greedy heuristic for the sequence dependent setup times flowshop problem with makespan and weighted tardiness objectives[J]. European Journal of Operational Research, 2008, 187(3): 1143-1159.
 Link:https://www.sciencedirect.com/science/article/pii/S0377221706008277
 
-106
 Ramezanian R, Vali-Siar M M, Jalalian M. Green permutation flowshop scheduling problem with sequence-dependent setup times: a case study[J]. International Journal of Production Research, 2019, 57(10): 3311-3333.
 Link:https://www.tandfonline.com/doi/full/10.1080/00207543.2019.1581955
 
-107
 Li J, Pan Q, Mao K. A discrete teaching-learning-based optimisation algorithm for realistic flowshop rescheduling problems[J]. Engineering Applications of Artificial Intelligence, 2015, 37: 279-292.
 Link:https://www.sciencedirect.com/science/article/pii/S0952197614002358
 
-108
+
 Al-Behadili M, Ouelhadj D, Jones D. Multi-objective biased randomised iterated greedy for robust permutation flow shop scheduling problem under disturbances[J]. Journal of the Operational Research Society, 2019: 1-13.
 Link:https://www.tandfonline.com/doi/full/10.1080/01605682.2019.1630330
 
-109
 Ding J Y, Song S, Wu C. Carbon-efficient scheduling of flow shops by multi-objective optimization[J]. European Journal of Operational Research, 2016, 248(3): 758-771.
 Link:https://www.sciencedirect.com/science/article/pii/S0377221715004099
 
-110
 Tasgetiren M F, Pan Q K, Suganthan P N, et al. A discrete artificial bee colony algorithm for the total flowtime minimization in permutation flow shops[J]. Information sciences, 2011, 181(16): 3459-3475.
 Link:https://www.sciencedirect.com/science/article/pii/S0020025511001927
-111
+
 Pan Q K, Tasgetiren M F, Liang Y C. A discrete differential evolution algorithm for the permutation flowshop scheduling problem[J]. Computers & Industrial Engineering, 2008, 55(4): 795-816.
 Link:https://www.sciencedirect.com/science/article/pii/S0360835208000582
 
-112
+
 Pan Q K, Ruiz R. Local search methods for the flowshop scheduling problem with flowtime minimization[J]. European Journal of Operational Research, 2012, 222(1): 31-43.
 Link:https://www.sciencedirect.com/science/article/pii/S0377221712003426
 
-113
+
 Zhang Y, Li X. A Quantum-inspired Iterated Greedy algorithm for permutation flowshops in a collaborative manufacturing environment[J]. International Journal of Computer Integrated Manufacturing, 2012, 25(10): 924-933.
 Link:https://www.tandfonline.com/doi/full/10.1080/0951192X.2011.592993
 
-114
 Öztop H, Tasgetiren M F, Eliiyi D T, et al. An energy-efficient permutation flowshop scheduling problem[J]. Expert Systems with Applications, 2020, 150: 113279.
 Link:https://www.sciencedirect.com/science/article/pii/S0957417420301044
 
-115
 Framinan J M, Leisten R. Total tardiness minimization in permutation flow shops: a simple approach based on a variable greedy algorithm[J]. International Journal of Production Research, 2008, 46(22): 6479-6498.
 Link:https://www.tandfonline.com/doi/full/10.1080/00207540701418960
 
-116
 Karabulut K. A hybrid iterated greedy algorithm for total tardiness minimization in permutation flowshops[J]. Computers & Industrial Engineering, 2016, 98: 300-307.
 Link:https://www.sciencedirect.com/science/article/pii/S0360835216302078
 
-117
 Zheng J X, Zhang P, Li F, et al. The high performing backtracking algorithm and heuristic for the sequence-dependent setup times flowshop problem with total weighted tardiness[J]. Engineering Optimization, 2016, 48(9): 1571-1592.
 Link:https://www.tandfonline.com/doi/full/10.1080/0305215X.2015.1124870
 
-118
 Fernandez-Viagas V, Valente J M S, Framinan J M. Iterated-greedy-based algorithms with beam search initialization for the permutation flowshop to minimise total tardiness[J]. Expert Systems with Applications, 2018, 94: 58-69.
 Link:https://www.sciencedirect.com/science/article/pii/S0957417417307327
 
-119
 Liu F, Wang S, Hong Y, et al. On the robust and stable flowshop scheduling under stochastic and dynamic disruptions[J]. IEEE Transactions on Engineering Management, 2017, 64(4): 539-553.
 Link:https://ieeexplore.ieee.org/abstract/document/7954623
-120
+
 Pessoa L S, Andrade C E. Heuristics for a flowshop scheduling problem with stepwise job objective function[J]. European Journal of Operational Research, 2018, 266(3): 950-962.
 Link:https://www.sciencedirect.com/science/article/pii/S037722171730958X
 
-152
 Balázs K, Horváth Z, Kóczy L T. Hybrid bacterial iterated greedy heuristics for the permutation flow shop problem[C]//2012 IEEE Congress on Evolutionary Computation. IEEE, 2012: 1-8.
 Link:https://ieeexplore.ieee.org/abstract/document/6256167
 
-153
 Balázs K, Horváth Z, Kóczy L T. Multi-threaded bacterial Iterated Greedy heuristics for the Permutation Flow Shop Problem[C]//2012 IEEE 13th International Symposium on Computational Intelligence and Informatics (CINTI). IEEE, 2012: 63-66.
 Link:https://ieeexplore.ieee.org/abstract/document/6496734
 
-154
 Hajer A, Talel L. Iterated local search and iterated greedy local search for two machines permutation flowshop scheduling problem with time lag[C]//2013 5th International Conference on Modeling, Simulation and Applied Optimization (ICMSAO). IEEE, 2013: 1-4.
 Link:https://ieeexplore.ieee.org/abstract/document/6552659
 
-155
 Brum A, Ritt M. Automatic Algorithm Configuration for the Permutation Flow Shop Scheduling Problem Minimizing Total Completion Time[C]//European Conference on Evolutionary Computation in Combinatorial Optimization. Springer, Cham, 2018: 85-100.
 Link:https://link.springer.com/chapter/10.1007/978-3-319-77449-7_6
 
-156
 Brum A, Ritt M. Automatic Design of Heuristics for Minimizing the Makespan in Permutation Flow Shops[C]//2018 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2018: 1-8.
 Link:https://ieeexplore.ieee.org/abstract/document/8477787
 
-157
 Tasgetiren M F, Pan Q K, Suganthan P N, et al. A discrete artificial bee colony algorithm for the permutation flow shop scheduling problem with total flowtime criterion[C]//IEEE Congress on Evolutionary Computation. IEEE, 2010: 1-8.
 Link:https://ieeexplore.ieee.org/abstract/document/5586300
 
-158
 Zhang Y, Li X. A quantum-inspired iterated greedy algorithm for permutation flowshops with total flowtime minimization[C]//2010 IEEE International Conference on Systems, Man and Cybernetics. IEEE, 2010: 1912-1917.
 Link:https://ieeexplore.ieee.org/abstract/document/5642267
 
-159
 Öztop H, Tasgetiren M F, Eliiyi D T, et al. Green Permutation Flowshop Scheduling: A Trade-off-Between Energy Consumption and Total Flow Time[C]//International Conference on Intelligent Computing. Springer, Cham, 2018: 753-759.
 Link:https://link.springer.com/chapter/10.1007/978-3-319-95957-3_79
 
-160
 Mascia F, López-Ibánez M, Dubois-Lacoste J, et al. From grammars to parameters: Automatic iterated greedy design for the permutation flow-shop problem with weighted tardiness[C]//International Conference on Learning and Intelligent Optimization. Springer, Berlin, Heidelberg, 2013: 321-334.
 Link:https://link.springer.com/chapter/10.1007/978-3-642-44973-4_36
 
-162
 Msakni M K, Khallouli W, Al-Salem M, et al. Minimizing the total completion time in a two-machine flowshop problem with time delays[J]. Engineering Optimization, 2016, 48(7): 1164-1181.
 Link:https://www.tandfonline.com/doi/full/10.1080/0305215X.2015.1099639
 
-164
 Aqil S, Allali K. Three metaheuristics for solving the flow shop problem with permutation and sequence dependent setup time[C]//2018 4th International Conference on Optimization and Applications (ICOA). IEEE, 2018: 1-6.
 Link:https://ieeexplore.ieee.org/abstract/document/8370598
 
-167
 Arık O A. Artificial bee colony algorithm including some components of iterated greedy algorithm for permutation flow shop scheduling problems[J]. Neural Computing and Applications, 2020: 1-18.
 Link:https://link.springer.com/article/10.1007/s00521-020-05174-1
 
-172
 Panda M, Dehuri S, Jagadev A K. Multi-Objective Artificial Bee Colony Algorithms and Chaotic-TOPSIS Method for Solving Flowshop Scheduling Problem and Decision Making[J]. Informatica, 2020, 44(2).
 Link:http://www.informatica.si/index.php/informatica/article/view/2616
 
-173
 Perez-Gonzalez P, Fernandez-Viagas V, Framinan J M. Permutation flowshop scheduling with periodic maintenance and makespan objective[J]. Computers & Industrial Engineering, 2020: 106369.
 Link:https://www.sciencedirect.com/science/article/pii/S0360835220301030
 
-176
 Valledor P, Gomez A, Priore P, et al. Modelling and Solving Rescheduling Problems in Dynamic Permutation Flow Shop Environments[J]. Complexity, 2020, 2020.
 Link:https://www.hindawi.com/journals/complexity/2020/2862186/
 
