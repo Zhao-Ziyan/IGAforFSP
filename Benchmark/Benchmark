@@ -1,6 +1,6 @@
-A. Available benchmark instances:
+1. Available benchmark instances:
 
-1. Various benchmarks about flowshop scheduling problems (FSPs) can be downloaded from http://soa.iti.es/problem-instances, including the ones of permutation FSPs, no-wait FSPs, no-idle FSPs, mixed no-idle FSPs, hybrid FSPs, assembly FSPs, distributed permutation FSPs, and distributed assembly FSPs.
+1.1. Various benchmarks about flowshop scheduling problems (FSPs) can be downloaded from http://soa.iti.es/problem-instances, including the ones of permutation FSPs, no-wait FSPs, no-idle FSPs, mixed no-idle FSPs, hybrid FSPs, assembly FSPs, distributed permutation FSPs, and distributed assembly FSPs.
 The instance are used in the following papers:
 (1) Vallada, Eva, Ruiz, Rubén & Framinan, Jose M. (2017). New hard benchmark for flowshop scheduling problems minimising makespan. European Journal of Operational Research, 240, 666-677.
 (2) Quan-Ke, Pan, Ruiz, Rubén & Alfaro-Fernández, Pedro. (2017). Iterated search methods for earliness and tardiness minimization in hybrid flowshops with due windows. Computers & Operations Research, 80, 50-60.M. Ciavotta, G. Minella and R. Ruiz, (2013). 
@@ -26,7 +26,7 @@ The instance are used in the following papers:
 (22) R. Ruiz, C. Maroto and J. Alcaraz (2005). Solving the flowshop scheduling problem with sequence dependent setup times using advanced metaheuristics. European Journal of Operational Research 165, 34-54.
 (23) R. Ruiz and T. Stützle, (2008) An Iterated Greedy heuristic for the sequence dependent setup times flowshop with makespan and weighted tardiness objectives. European Journal of Operational Research 187, 1143-1159.
 
-2. A well-known Taillard’s benchmark of FSPs introduced in (1) is available at http://mistic.heig-vd.ch/taillard/problemes.dir/ordonnancement.dir/ordonnancement.html and used in the following papers.
+1.2. A well-known Taillard’s benchmark of FSPs introduced in (1) is available at http://mistic.heig-vd.ch/taillard/problemes.dir/ordonnancement.dir/ordonnancement.html and used in the following papers.
 (1) Taillard, Eric. "Benchmarks for basic scheduling problems." european journal of operational research 64.2 (1993): 278-285.
 (2) Ding, Jian-Ya, et al. "New block properties for flowshop scheduling with blocking and their application in an iterated greedy algorithm." International Journal of Production Research 54.16 (2016): 4759-4772.
 (3) Pan, Quan-Ke, Mehmet Fatih Tasgetiren, and Yun-Chia Liang. "A discrete differential evolution algorithm for the permutation flowshop scheduling problem." Computers & Industrial Engineering 55.4 (2008): 795-816.
@@ -35,18 +35,19 @@ The instance are used in the following papers:
 (6) Ravetti, Martín Gómez, et al. "Parallel hybrid heuristics for the permutation flow shop problem." Annals of Operations Research 199.1 (2012): 269-284.
 (7) Balázs, Krisztián, Zoltán Horváth, and László T. Kóczy. "Multi-threaded bacterial Iterated Greedy heuristics for the Permutation Flow Shop Problem." 2012 IEEE 13th International Symposium on Computational Intelligence and Informatics (CINTI). IEEE, 2012.
 
-3. Two datasets of FSPs are available at OR-library http://people.brunel.ac.uk/~mastjjb/jeb/orlib/flowshopinfo.html. 
- 
-4. A benchmark dataset of hybrid FSPs is available at www.benchmark.ibu.edu.tr/mpt-hfsp.
+1.3. Two datasets of FSPs are available at OR-library http://people.brunel.ac.uk/~mastjjb/jeb/orlib/flowshopinfo.html. 
+
+1.4. A benchmark dataset of hybrid FSPs is available at www.benchmark.ibu.edu.tr/mpt-hfsp.
 Şerifoğlu, F. Sivrikaya, and Gündüz Ulusoy. "Multiprocessor task scheduling in multistage hybrid flow-shops: a genetic algorithm approach." Journal of the Operational Research Society 55.5 (2004): 504-512.
 
-B. Instance generation method:
 
-1. Hybid FSPs:
+2. Instance generation method:
+
+2.1. Hybid FSPs:
 Oğuz, Ceyda, et al. "Hybrid flow-shop scheduling problems with multiprocessor task systems." European Journal of Operational Research 152.1 (2004): 115-131.
 
-2. Flexible FSPs:
+2.2. Flexible FSPs:
 Naderi, Bahman, Mostafa Zandieh, and GHOMI SEYED MOHAMMAD TAGHI FATEMI. "An Iterated Greedy Algorithm for Flexible Flow Lines with Sequence Dependent Setup Times to Minimize Total Weighted Completion Time." (2009): 33-37.
 
-3. No-wait FSPs:
+2.3. No-wait FSPs:
 Ruiz, Ruben, and Ali Allahverdi. "New heuristics for no-wait flow shops with a linear combination of makespan and maximum lateness." International Journal of Production Research 47.20 (2009): 5717-5738.
